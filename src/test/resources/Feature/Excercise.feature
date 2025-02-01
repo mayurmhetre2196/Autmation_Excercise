@@ -1,5 +1,7 @@
+@Ebay
 Feature: Add Cart
 
+@Ebay
 Scenario: Verify user able to add book into Cart
 
 Given user Open browser  

@@ -1,6 +1,6 @@
 @Getrequest
-Feature: Title of your feature
-  I want to use this template for my feature file
+Feature: verify API repsonse for get request
+  
 @Getrequest
   Scenario: Verify get request
     When user send the GET request
